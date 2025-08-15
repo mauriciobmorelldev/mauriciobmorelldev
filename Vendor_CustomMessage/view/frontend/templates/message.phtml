@@ -1,0 +1,8 @@
+<?php /** @var \Vendor\CustomMessage\Block\Message $block */ ?>
+<div class="custom-message" style="padding: 12px; border: 1px solid #eee; border-radius: 8px;">
+    <?php if ($block->isEnabled()): ?>
+        <strong><?= $block->escapeHtml($block->getCustomMessage() ?: '¡Hola desde Vendor_CustomMessage!') ?></strong>
+    <?php else: ?>
+        <em>Módulo deshabilitado.</em>
+    <?php endif; ?>
+</div>
