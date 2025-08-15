@@ -21,9 +21,15 @@ Apasionado por crear código limpio, escalable y enfocado en el crecimiento de l
 
 > Por privacidad, no todos los proyectos reales pueden publicarse aquí, pero encontrarás módulos, integraciones y ejemplos que reflejan mi forma de trabajar.
 
-🔹 [**Magento 2 - Módulo de integración con API externa**](#) *(Ejemplo)*  
-🔹 [**Magento 2 - Checkout custom con campos adicionales**](#) *(Ejemplo)*  
-🔹 [**Script de optimización de base de datos Magento**](#) *(Ejemplo)*  
+- [Vendor_CustomMessage](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_CustomMessage)  
+  Módulo Magento 2 que permite mostrar un mensaje configurable desde el admin en el frontend.
+
+- [Vendor_DbCleanup](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_DbCleanup)  
+  Herramienta CLI para limpiar logs y optimizar tablas de base de datos en Magento 2.
+
+- [Vendor_CountrySync](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_CountrySync)
+  Integración con la API de REST Countries para sincronizar datos de países en Magento 2.
+ 
 
 ---
 
