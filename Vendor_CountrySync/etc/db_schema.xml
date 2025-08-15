@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="vendor_country" resource="default" engine="innodb" comment="Vendor Countries">
+        <column xsi:type="int" name="entity_id" nullable="false" identity="true" unsigned="true" comment="ID" />
+        <column xsi:type="text" name="name" nullable="false" length="255" comment="Country Name"/>
+        <column xsi:type="text" name="code" nullable="false" length="2" comment="ISO2 Code"/>
+        <column xsi:type="text" name="region" nullable="true" length="255" comment="Region"/>
+        <column xsi:type="timestamp" name="updated_at" on_update="true" nullable="false" default="CURRENT_TIMESTAMP" comment="Updated At"/>
+        <constraint xsi:type="primary" referenceId="PRIMARY">
+            <column name="entity_id"/>
+        </constraint>
+        <constraint xsi:type="unique" referenceId="VENDOR_COUNTRY_CODE_UNQ">
+            <column name="code"/>
+        </constraint>
+        <index referenceId="VENDOR_COUNTRY_REGION_IDX">
+            <column name="region"/>
+        </index>
+    </table>
+</schema>

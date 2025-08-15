@@ -1,0 +1,16 @@
+{
+  "name": "vendor/module-countrysync",
+  "description": "Magento 2 integration example: sync countries from a public REST API into a custom table, with cron and CLI.",
+  "type": "magento2-module",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Vendor\\CountrySync\\": ""
+    }
+  }
+}

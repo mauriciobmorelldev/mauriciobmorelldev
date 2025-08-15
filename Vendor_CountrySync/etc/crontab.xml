@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/crontab.xsd">
+    <group id="default">
+        <job name="vendor_country_sync" instance="Vendor\CountrySync\Model\CountryService" method="syncCountries">
+            <schedule>0 3 * * *</schedule>
+        </job>
+    </group>
+</config>
