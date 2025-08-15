@@ -35,9 +35,9 @@ Apasionado por crear código limpio, escalable y enfocado en el crecimiento de l
 
 ## 🌐 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Morell-blue)](https://www.linkedin.com/in/mauriciomorell/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Morell-blue)]([https://www.linkedin.com/in/mauriciomorell](https://www.linkedin.com/in/mauricio-morell-8478a6203/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Croodev.com-green)](https://croodev.com/)  
-📧 **Email:** mauricio.morell.dev@gmail.com
+📧 **Email:** mauriciobmorell@gmail.com
 
 ---
 ✍ *Siempre abierto a colaborar en proyectos interesantes y a compartir conocimientos con la comunidad.*
