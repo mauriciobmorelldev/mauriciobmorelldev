@@ -9,7 +9,7 @@ Apasionado por crear código limpio, escalable y enfocado en el crecimiento de l
 ## 🚀 Tecnologías y herramientas
 
 - **Backend:** Magento 2, PHP, Symfony, Laravel  
-- **Frontend:** HTML5, CSS3, JavaScript, Knockout.js, Vue.js  
+- **Frontend:** HTML5, CSS3, JavaScript, Knockout.js  
 - **Bases de datos:** MySQL, MariaDB  
 - **DevOps / Entornos:** Docker, Ubuntu, Git, Composer  
 - **Ecommerce:** Integraciones de pago, envío, personalizaciones de checkout, creación de módulos  
