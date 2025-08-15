@@ -35,7 +35,7 @@ Apasionado por crear código limpio, escalable y enfocado en el crecimiento de l
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomorell&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciobmorelldev&show_icons=true&theme=default)
 
 ---
 
