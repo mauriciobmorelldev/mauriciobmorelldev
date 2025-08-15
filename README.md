@@ -13,8 +13,7 @@ Apasionado por crear código limpio, escalable y enfocado en el crecimiento de l
 - **Bases de datos:** MySQL, MariaDB  
 - **DevOps / Entornos:** Docker, Ubuntu, Git, Composer  
 - **Ecommerce:** Integraciones de pago, envío, personalizaciones de checkout, creación de módulos  
-- **Otros:** API REST/SOAP, optimización de performance, arquitectura hexagonal
-
+- **Otros:** API REST/SOAP, optimización de performance
 ---
 
 ## 📌 Algunos de mis trabajos
