@@ -21,13 +21,16 @@ Apasionado por crear código limpio, escalable y enfocado en el crecimiento de l
 
 > Por privacidad, no todos los proyectos reales pueden publicarse aquí, pero encontrarás módulos, integraciones y ejemplos que reflejan mi forma de trabajar.
 
-- [Vendor_CustomMessage](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_CustomMessage)  
+- [Vendor_CustomMessage](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_CustomMessage)
+  ![Magento 2](https://img.shields.io/badge/Magento-2.4-orange) ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)  
   Módulo Magento 2 que permite mostrar un mensaje configurable desde el admin en el frontend.
 
-- [Vendor_DbCleanup](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_DbCleanup)  
+- [Vendor_DbCleanup](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_DbCleanup)
+  ![Magento 2](https://img.shields.io/badge/Magento-2.4-orange) ![CLI](https://img.shields.io/badge/CLI-Tool-lightgrey) 
   Herramienta CLI para limpiar logs y optimizar tablas de base de datos en Magento 2.
 
 - [Vendor_CountrySync](https://github.com/mauriciobmorelldev/mauriciobmorelldev/tree/main/Vendor_CountrySync)
+  ![Magento 2](https://img.shields.io/badge/Magento-2.4-orange) ![API](https://img.shields.io/badge/API-Integration-green)
   Integración con la API de REST Countries para sincronizar datos de países en Magento 2.
  
 
